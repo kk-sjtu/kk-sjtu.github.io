@@ -103,4 +103,4 @@ theme: typography
 deploy:
   type: git
   repo: https://github.com/kk-sjtu/kk-sjtu.github.io.git
-  branch: gh-pages
+  branch: master
